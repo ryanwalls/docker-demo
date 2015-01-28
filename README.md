@@ -4,4 +4,6 @@ Files and instructions needed to follow along with my https://slides.com/ryanwal
 # Steps to do while we're waiting to get started
 *  Download and install VirtualBox.  https://www.virtualbox.org/wiki/Downloads
 *  Clone this repo.  
-*  Copy `docker-machine` into some directory that is on your path.  e.g.  /usr/local/bin. This binary is a build of docker machine that was built from the source on 1/27/15.
+*  Make sure `docker-machine` is executable by running  `chmod +x docker-machine`
+*  Copy `docker-machine` into some directory that is on your path.  e.g.  /usr/local/bin. This binary is a build of docker machine from Jan 27, 2015 with this commit as the latest: https://github.com/docker/machine/commit/c209704f5affc9e3adfad383d8cefdb9abc1a5c0
+
