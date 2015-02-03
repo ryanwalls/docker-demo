@@ -7,7 +7,7 @@ Files and instructions needed to follow along with my https://slides.com/ryanwal
 *  Install Docker Compose
 
    ```bash
-   curl -L https://github.com/docker/fig/releases/download/1.1.0-rc1/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose; chmod +x /usr/local/bin/docker-compose
+   curl -L https://github.com/docker/fig/releases/download/1.1.0-rc2/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose; chmod +x /usr/local/bin/docker-compose
    ```
 *  Install Docker Machine
     *  Clone this repo.  
